@@ -1,0 +1,144 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/Lukas/ITU/ADSE/Exam/test-library/test-library.csproj": {}
+  },
+  "projects": {
+    "/Users/Lukas/ITU/ADSE/Exam/library/library.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Lukas/ITU/ADSE/Exam/library/library.csproj",
+        "projectName": "library",
+        "projectPath": "/Users/Lukas/ITU/ADSE/Exam/library/library.csproj",
+        "packagesPath": "/Users/Lukas/.nuget/packages/",
+        "outputPath": "/Users/Lukas/ITU/ADSE/Exam/library/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Lukas/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/Lukas/ITU/ADSE/Exam/test-library/test-library.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Lukas/ITU/ADSE/Exam/test-library/test-library.csproj",
+        "projectName": "test-library",
+        "projectPath": "/Users/Lukas/ITU/ADSE/Exam/test-library/test-library.csproj",
+        "packagesPath": "/Users/Lukas/.nuget/packages/",
+        "outputPath": "/Users/Lukas/ITU/ADSE/Exam/test-library/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Lukas/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/Lukas/ITU/ADSE/Exam/library/library.csproj": {
+                "projectPath": "/Users/Lukas/ITU/ADSE/Exam/library/library.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.7.1, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.3.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

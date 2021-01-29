@@ -1,0 +1,12 @@
+/Users/Lukas/ITU/ADSE/Exam/library/bin/Debug/net5.0/library.deps.json
+/Users/Lukas/ITU/ADSE/Exam/library/bin/Debug/net5.0/library.dll
+/Users/Lukas/ITU/ADSE/Exam/library/bin/Debug/net5.0/ref/library.dll
+/Users/Lukas/ITU/ADSE/Exam/library/bin/Debug/net5.0/library.pdb
+/Users/Lukas/ITU/ADSE/Exam/library/obj/Debug/net5.0/library.csprojAssemblyReference.cache
+/Users/Lukas/ITU/ADSE/Exam/library/obj/Debug/net5.0/library.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Lukas/ITU/ADSE/Exam/library/obj/Debug/net5.0/library.AssemblyInfoInputs.cache
+/Users/Lukas/ITU/ADSE/Exam/library/obj/Debug/net5.0/library.AssemblyInfo.cs
+/Users/Lukas/ITU/ADSE/Exam/library/obj/Debug/net5.0/library.csproj.CoreCompileInputs.cache
+/Users/Lukas/ITU/ADSE/Exam/library/obj/Debug/net5.0/library.dll
+/Users/Lukas/ITU/ADSE/Exam/library/obj/Debug/net5.0/ref/library.dll
+/Users/Lukas/ITU/ADSE/Exam/library/obj/Debug/net5.0/library.pdb
