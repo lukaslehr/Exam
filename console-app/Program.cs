@@ -7,8 +7,11 @@ namespace console_app
     {
         static void Main(string[] args)
         {
+
             var q = new Question();
+            Console.WriteLine(q.Largest(2.4f, 4.5f));
             q.Hello("Lukas");
+
         }
     }
 }
