@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TzBjC0kruWmfvmX9QsxkqxcuTl+1Hyj3ldMQfbfWOqgwQBhkoW/TL6aseDnV2Gnyu2Ib2GJzlrRhOdfRyF+ZqA==",
+  "success": true,
+  "projectFilePath": "/Users/Lukas/ITU/ADSE/Exam/console-app/console-app.csproj",
+  "expectedPackageFiles": [
+    "/Users/Lukas/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
