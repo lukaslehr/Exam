@@ -1,5 +1,5 @@
-﻿using System;
-using library;
+﻿using library;
+using System;
 
 namespace console_app
 {
@@ -7,7 +7,8 @@ namespace console_app
     {
         static void Main(string[] args)
         {
-            Question.Hello("Brian");
+            var q = new Question();
+            q.Hello("Lukas");
         }
     }
 }

@@ -1,14 +1,14 @@
-using System;
+using library;
 using Xunit;
 
-namespace test_library
+namespace TestApp
 {
-    public class UnitTest1
+    public class LibraryTests
     {
         [Fact]
-        public void Test1()
-        {
-
+        public void TestThing() {
+            Assert.Equal(42, 20);
         }
     }
 }
+
