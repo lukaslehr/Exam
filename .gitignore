@@ -228,3 +228,8 @@ console-app/obj/Debug/net5.0/console-app.csprojAssemblyReference.cache
 *.dll
 *.pdb
 console-app/obj/Debug/net5.0/console-app.dll
+console-app/bin/Debug/net5.0/console-app.dll
+console-app/bin/Debug/net5.0/console-app.pdb
+*.cache
+*.dll
+*.pdb
